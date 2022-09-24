@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **facincani.maykon@gmail.com**
 
-- 📄 Know about my experiences [I have 10+ experience in IT, I started my career with user support and implementation and maintenance of Linux servers. I also have experience developing web applications with Laravel and Vue. Participated in IT Management activities, such as contracts, process mapping and regulations. I am a proactive professional who is always looking for new professional challenges](I have 10+ experience in IT, I started my career with user support and implementation and maintenance of Linux servers. I also have experience developing web applications with Laravel and Vue. Participated in IT Management activities, such as contracts, process mapping and regulations. I am a proactive professional who is always looking for new professional challenges)
+- 📄 Know about my experiences **I have 10+ experience in IT, I started my career with user support and implementation and maintenance of Linux servers. I also have experience developing web applications with Laravel and Vue. Participated in IT Management activities, such as contracts, process mapping and regulations. I am a proactive professional who is always looking for new professional challenges](I have 10+ experience in IT, I started my career with user support and implementation and maintenance of Linux servers. I also have experience developing web applications with Laravel and Vue. Participated in IT Management activities, such as contracts, process mapping and regulations. I am a proactive professional who is always looking for new professional challenges)**
 
 - ⚡ Fun fact **I have watched 1000+ animes series**
 
